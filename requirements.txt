@@ -1,0 +1,7 @@
+streamlit
+pandas
+pyjwt
+gspread
+oauth2client
+pillow
+qrcode
